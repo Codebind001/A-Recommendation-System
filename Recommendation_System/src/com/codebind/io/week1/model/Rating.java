@@ -1,4 +1,4 @@
-package com.codebind.io.week1;
+package com.codebind.io.week1.model;
 
 public class Rating implements Comparable<Rating> {
     private String item;
